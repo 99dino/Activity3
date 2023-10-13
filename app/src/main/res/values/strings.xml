@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activity3</string>
+    <string name="landing">This is the landing Page.</string>
+    <string name="next">Next</string>
+</resources>
